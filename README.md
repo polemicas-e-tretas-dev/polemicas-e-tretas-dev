@@ -3,6 +3,11 @@
 # Polêmicas e tretas dev
 As polêmicas e tretas versionadas. 
 
+O que são as tretas? 
+
+- São polêmicas que rolaram nas redes sociais (especialmente Twitter) das comunidades/empresas/pessoas da área de tecnologia. 
+*Tudo isso aconteceu mesmo*
+
 | Data aproximada   |      Qual a treta?   |
 |----------|:-------------:|
 | **Novembro de 2019** |  Desenvolvedores brasileiros sem relevância alguma no exterior, tuitando em inglês. Até quando? | 
