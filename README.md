@@ -5,8 +5,11 @@ As polêmicas e tretas versionadas.
 
 O que são as tretas? 
 
-- São polêmicas que rolaram nas redes sociais (especialmente Twitter) das comunidades/empresas/pessoas da área de tecnologia. 
+- São polêmicas que rolaram nas redes sociais (especialmente Twitter) das comunidades/empresas/pessoas da área de tecnologia. Em geral são tentativas de ditar comportamentos e/ou tendências ou ações com pouco ou nenhum embasamento em referências concretas. Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontrar relatos dos ocorridos.
+
+
 *Tudo isso aconteceu mesmo*
+
 
 | Data aproximada   |      Qual a treta?   |
 |----------|:-------------:|
