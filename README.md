@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/ezefranca/polemicas-e-tretas-dev/master/figure.jpeg)
+
 # Polêmicas e tretas dev
 As polêmicas e tretas versionadas. 
 
