@@ -13,6 +13,7 @@ O que são as tretas?
 
 | Data aproximada   |      Qual a treta?   |
 |----------|:-------------:|
+| **Julho de 2019** |  A polêmica na época veio da gringa, o tal x10 Engineer, "um dev que vale por dez"| 
 | **Novembro de 2019** |  Soltaram essa: Desenvolvedores brasileiros sem relevância alguma no exterior, tuitando em inglês. Até quando? | 
 | **Maio de 2020** |    Aconteceu: Refutar o Imperial College porque deu uma olhada no Github deles   | 
 | **Julho de 2020** | Soltaram essa: Faz 4 anos que saí do Brasil e me dói na alma a pronúncia errada do inglês de vocês | 
