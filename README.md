@@ -20,3 +20,5 @@ O que são as tretas?
 | **Agosto de 2020** | Afirmaram que: Dev Sênior para Jr. : antes de perguntar procura no Google | 
 | **Setembro de 2020** | A cabine de home office da S. (nome oculto, não olhe o histórico do git) | 
 | **Setembro de 2020** | Uma empresa afirmou no Twitter que se você ganha mais de R$ 5000.0 e não leu o Clean Code você está errado| 
+| **Setembro de 2020** | Aconteceu: Não foi no mundo dev mas teve grande repercussão nele, perola do LinkedIn CEO querendo fazer entrevista de Domingo... [detalhes](https://twitter.com/o_gabsferreira/status/1310604626761318401)| 
+
