@@ -23,4 +23,13 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 | **10/2020** | Veio da gringa novamente: Se você se considera desenvolvedor, mas utiliza mouse, então você é Junior... [detalhes](https://twitter.com/_oshell/status/1312206331277840384)| 
 
 
+### Lojinha
+
+Compre uma camiseta com alguma das polêmicas!!
+
+![foto camiseta.](https://cdn.colab55.com/images/1601849642/studio/118245/art/241790/tees/standard/preta/1.png)
+
+[Acesse a Loja aqui](https://www.colab55.com/@ezefranca)
+
+
 
