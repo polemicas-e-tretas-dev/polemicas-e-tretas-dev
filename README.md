@@ -20,7 +20,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 | **09/2020** | A cabine de home office da S. (nome da empresa oculto por questões judiciais) [detalhes](https://manualdousuario.net/stefanini-cabine-home-office/) | 
 | **09/2020** | Uma empresa afirmou no Twitter que se você ganha mais de R$ 5000.0 e não leu o Clean Code você está errado [detalhes](https://twitter.com/jacob_moura/status/1308102194667888640)| 
 | **09/2020** | Aconteceu: Não foi no mundo dev mas teve grande repercussão nele, perola do LinkedIn CEO querendo fazer entrevista de Domingo... [detalhes](https://twitter.com/o_gabsferreira/status/1310604626761318401)| 
-| **09/2020** | Veio da gringa novamente: Se você se considera desenvolvedor, mas utiliza mouse, então você é Junior... [detalhes](https://twitter.com/_oshell/status/1312206331277840384)| 
+| **10/2020** | Veio da gringa novamente: Se você se considera desenvolvedor, mas utiliza mouse, então você é Junior... [detalhes](https://twitter.com/_oshell/status/1312206331277840384)| 
 
 
 
