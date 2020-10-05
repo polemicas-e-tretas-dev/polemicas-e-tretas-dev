@@ -27,9 +27,9 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 
 Compre uma camiseta com alguma das polêmicas!!
 
-![foto camiseta.](https://cdn.colab55.com/images/1601849642/studio/118245/art/241790/tees/standard/preta/1.png)
+<img src="https://cdn.colab55.com/images/1601849642/studio/118245/art/241790/tees/standard/preta/1.png" width="50%" height="50%" alt="Camiseta">
 
-[Acesse a Loja aqui](https://www.colab55.com/@ezefranca)
+[Acesse a Loja aqui](https://www.colab55.com/@polemicasdev)
 
 
 
