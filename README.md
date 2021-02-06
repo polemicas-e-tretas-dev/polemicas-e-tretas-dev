@@ -22,6 +22,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 | **09/2020** | Aconteceu: Não foi no mundo dev mas teve grande repercussão nele, perola do LinkedIn CEO querendo fazer entrevista de Domingo... [detalhes](https://twitter.com/o_gabsferreira/status/1310604626761318401)| 
 | **10/2020** | Veio da gringa novamente: Se você se considera desenvolvedor, mas utiliza mouse, então você é Junior... [detalhes](https://twitter.com/_oshell/status/1312206331277840384)|
 | **12/2020** | Soltaram essa: Devemos não contratar devs por não terem um Mac? [detalhes](https://twitter.com/TheEduardoRFS/status/1338505776932020227)|
+| **02/2021** | Escreveram: "Se você trabalha com Low-Code, então você não trabalha como programador. Usar low-code é tipo fazer miojo e achar que é cozinheiro." [detalhes](https://twitter.com/edgarberlinck/status/1357760824841023488)|
 
 
 ### Lojinha
