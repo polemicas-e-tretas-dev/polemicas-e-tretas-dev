@@ -14,7 +14,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 |----------|:-------------:|
 | **07/2019** |  A polêmica na época veio da gringa, o tal 10x Engineer, "um dev que vale por dez" [detalhes](https://twitter.com/skirani/status/1149302828420067328)| 
 | **11/2019** |  Soltaram essa: Desenvolvedores brasileiros sem relevância alguma no exterior, tuitando em inglês. Até quando? [detalhes e contexto](https://twitter.com/giovannibassi/status/1195832203978182656) | 
-| **05/2020** |    Aconteceu: Refutar o Imperial College porque deu uma olhada no Github deles  [detalhes](https://twitter.com/pac_man/status/1258484460904943618) | 
+| **05/2020** |  Aconteceu: Refutar o Imperial College porque deu uma olhada no Github deles  [detalhes](https://twitter.com/pac_man/status/1258484460904943618) | 
 | **07/2020** | Soltaram essa: Faz 4 anos que saí do Brasil e me dói na alma a pronúncia errada do inglês de vocês [detalhes](https://twitter.com/vquaiato/status/1283752729282785280) | 
 | **08/2020** | Afirmaram que: Dev Sênior para Jr. : antes de perguntar procura no Google [detalhes](https://twitter.com/danicuki/status/1300751344848961536)| 
 | **09/2020** | A cabine de home office da S. (nome da empresa oculto por questões judiciais) [detalhes](https://manualdousuario.net/stefanini-cabine-home-office/) | 
@@ -23,6 +23,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 | **10/2020** | Veio da gringa novamente: Se você se considera desenvolvedor, mas utiliza mouse, então você é Junior... [detalhes](https://twitter.com/_oshell/status/1312206331277840384)|
 | **12/2020** | Soltaram essa: Devemos não contratar devs por não terem um Mac? [detalhes](https://twitter.com/TheEduardoRFS/status/1338505776932020227)|
 | **02/2021** | Escreveram: "Se você trabalha com Low-Code, então você não trabalha como programador. Usar low-code é tipo fazer miojo e achar que é cozinheiro." [detalhes](https://twitter.com/edgarberlinck/status/1357760824841023488)|
+| **02/2021** | Escreveram: " A indústria normalmente, em TI, está na frente da academia. A academia ainda discute muito Waterfall, por exemplo." [detalhes aqui](https://twitter.com/giovannibassi/status/1357312809902759938), [aqui](https://twitter.com/loboweissmann/status/1357651360162979845) e [aqui](https://twitter.com/gustavopinto/status/1357658200124891137)|
 
 
 ### Lojinha
