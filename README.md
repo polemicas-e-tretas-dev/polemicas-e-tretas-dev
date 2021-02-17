@@ -14,7 +14,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 |----------|:-------------:|
 | **07/2019** |  A polêmica na época veio da gringa, o tal 10x Engineer, "um dev que vale por dez" [detalhes](https://twitter.com/skirani/status/1149302828420067328)| 
 | **11/2019** |  Soltaram essa: Desenvolvedores brasileiros sem relevância alguma no exterior, tuitando em inglês. Até quando? [detalhes e contexto](https://twitter.com/giovannibassi/status/1195832203978182656) | 
-| **05/2020** |  Aconteceu: Refutar o Imperial College porque deu uma olhada no Github deles  [detalhes](https://twitter.com/pac_man/status/1258484460904943618) | 
+| **05/2020** |  Aconteceu: Refutar o Imperial College porque deu uma olhada no Github deles x o incomodo do pessoal.  [detalhes](https://twitter.com/pac_man/status/1258484460904943618) | 
 | **07/2020** | Soltaram essa: Faz 4 anos que saí do Brasil e me dói na alma a pronúncia errada do inglês de vocês [detalhes](https://twitter.com/vquaiato/status/1283752729282785280) | 
 | **08/2020** | Afirmaram que: Dev Sênior para Jr. : antes de perguntar procura no Google [detalhes](https://twitter.com/danicuki/status/1300751344848961536)| 
 | **09/2020** | A cabine de home office da S. (nome da empresa oculto por questões judiciais) [detalhes](https://manualdousuario.net/stefanini-cabine-home-office/) | 
