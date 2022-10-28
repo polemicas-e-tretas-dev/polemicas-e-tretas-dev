@@ -25,6 +25,7 @@ Se você pesquisar no Google e/ou Twitter pela data aproximada consegue encontra
 | **02/2021** | Escreveram: "Se você trabalha com Low-Code, então você não trabalha como programador. Usar low-code é tipo fazer miojo e achar que é cozinheiro." [detalhes](https://twitter.com/edgarberlinck/status/1357760824841023488)|
 | **02/2021** | Escreveram: " A indústria normalmente, em TI, está na frente da academia. A academia ainda discute muito Waterfall, por exemplo." [detalhes aqui](https://twitter.com/giovannibassi/status/1357312809902759938), [aqui](https://twitter.com/loboweissmann/status/1357651360162979845) e [aqui](https://twitter.com/gustavopinto/status/1357658200124891137)|
 | **05/2022** | O cara pediu pra apagar o repositório do curso dele, rolou um plot twiste e o aluno pirateava o curso do cara na hotmart [detalhes aqui no github](https://github.com/alfredo1995/REST/issues/1) e [aqui no twitter](https://twitter.com/paulorgoncalves/status/1531633419372969986)
+| **10/2022** | [Nawarian](https://twitter.com/nawarian) foi expulso de um grupo de dev pois seu nickname pessoal do Telegram incomodou alguns bolsonaristas. Foi feito PR com essa regra no repositorio deles. [detalhes aqui](https://twitter.com/nawarian/status/1585980500782583808) e [Pull Request](https://github.com/GrupoDevelopers/GrupoDevelopers.github.io/pull/11)
 
 ### Lojinha
 
